@@ -1,0 +1,28 @@
+.titulo{
+	color: hsl(0, 76%, 48%);
+	font-size: 48px;
+}
+.n{
+	background-color: #db1e1e;
+}
+
+.link{
+    color:#fff;
+}
+
+
+.img{
+	background:#884d48;
+	color:#fff;
+}
+
+.footer {
+	background:#16a085;
+	color:#fff;
+}
+
+.affix{
+	top: 0;
+	width: 86%;
+	z-index: 9999 !important;
+}
